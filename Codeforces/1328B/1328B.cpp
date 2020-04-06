@@ -4,6 +4,7 @@
 typedef long long ll;
 using namespace std;
 vector<ll> ans;
+// https://codeforces.com/contest/1328/problem/B
 int main(){
 	ios::sync_with_stdio(false);
 	cin.tie(nullptr);
