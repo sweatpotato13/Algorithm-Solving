@@ -4,6 +4,7 @@
 typedef long long ll;
 using namespace std;
 int dp[50001]={0,};
+// https://www.acmicpc.net/problem/17626
 int main(){
 	ios::sync_with_stdio(false);
 	cin.tie(nullptr);
