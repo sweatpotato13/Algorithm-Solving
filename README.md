@@ -2,7 +2,7 @@
 
 Git page that store source of algorithm problems
 
-It doesn't contain the source code of all the problems I solved.
+It doesn't contain the source code of all the problems I solved
 
 <h2> Git page Link </h2>
 
