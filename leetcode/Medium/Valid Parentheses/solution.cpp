@@ -1,3 +1,7 @@
+#pragma warning(disable : 4996)
+#include <bits/stdc++.h>
+using namespace std;
+
 // https://leetcode.com/problems/valid-parentheses/
 class Solution {
 public:
